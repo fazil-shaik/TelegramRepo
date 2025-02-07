@@ -56,8 +56,8 @@ This project is a **desktop authentication app** built with **Tauri + Next.js**.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/telegram-login-app.git
-cd telegram-login-app
+git clone https://github.com/FaZil-shaik/TelegramRepo.git
+cd TelegramRepo
 ```
 
 ### 2️⃣ Install Dependencies
